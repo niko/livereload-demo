@@ -1,3 +1,3 @@
 h1. Demo of live reload
 
-"Look here for more info":/niko/livereload-demo/blob/master/README.textile
+"Look here for more info":/niko/livereload-demo/blob/master/views/facts.textile
