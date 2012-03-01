@@ -1,3 +1,11 @@
 h1. Demo of live reload
 
+Try it:
+
+* git clone git@github.com:niko/livereload-demo.git
+* cd livereload-demo
+* bundle install
+* rackup
+* guard (in another terminal)
+
 "Look here for more info":/niko/livereload-demo/blob/master/views/facts.textile
