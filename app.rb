@@ -8,6 +8,6 @@ get '/' do
 end
 
 get '/facts' do
-  textile :facts
+  textile :facts, layout_engine: :erb
 end
 

@@ -14,4 +14,4 @@ alternative:
 * Browser-Extensions for 1.
 * "LiveReload":http://livereload.com/ for 2. and 3.
 
-"This app is on Github"https://github.com/niko/livereload-demo.
+"This app is on Github":https://github.com/niko/livereload-demo.
