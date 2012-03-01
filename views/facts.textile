@@ -1,0 +1,16 @@
+h1. LiveReload
+
+h2. Components
+
+# Javascript
+# File-Watcher
+# WebSocker-Server
+
+* "rack-livereload":https://github.com/johnbintz/rack-livereload for 1.
+* "guard-livereload":https://github.com/guard/guard-livereload for 2. and 3
+
+alternative:
+
+* Browser-Extensions for 1.
+* "LiveReload":http://livereload.com/ for 2. and 3.
+
